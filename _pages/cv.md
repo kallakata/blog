@@ -10,10 +10,11 @@ redirect_from:
 {% include base_path %}
 
 # Pavel Vařenka
-Platform Engineer @SemanticVisions
-Prague, Prague, Czechia
+Platform Engineer @SemanticVisions  
 
-*   **Email:** pavel.varenka@seznam.cz
+Prague, Czechia
+
+*   **Email:** pavel.varenka@protonmail.com
 *   **Phone:** 732967832
 *   **Website:** [linktr.ee/pavelvarenka](https://linktr.ee/pavelvarenka)
 *   **LinkedIn:** [linkedin.com/in/pavelvarenka](https://www.linkedin.com/in/pavelvarenka)
