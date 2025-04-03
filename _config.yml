@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "kallakata.dev"
 title_separator          : "-"
 name                     : &name "Pavel Vařenka"
 description              : &description "I like all things cloud, infrastructure & DevOps. Currently a Platform Engineer with a passion for building scalable, reliable, and secure systems. I am also a big fan of open source software and enjoy contributing to the community."
