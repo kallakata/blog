@@ -1,152 +1,293 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Pavel Vařenka",
+    "email": "pavel.varenka@seznam.cz",
+    "phone": "732967832",
+    "website": "linktr.ee/pavelvarenka",
+    "summary": "Platform Engineer with a strong passion for Cybersecurity and DevOps. Constantly striving to improve by staying updated in the professional field and technology overall. Current focus revolves around Dev(Sec)Ops, microservices (Golang/C#/Python), cloud (GCP/AWS/Azure), Infrastructure-as-Code, observability, and automation (SRE). Experienced in secure network architecture, SIEM, penetration testing, cloud security, system administration, and large-scale infrastructure automation. Primary goal is combining cloud security knowledge with DevOps and SRE principles. Advocate for open-source (CNCF), automation, re-usability, and the shift-left approach.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Prague",
+      "countryCode": "CZ",
+      "region": "Prague"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "LinkedIn",
+        "username": "pavelvarenka",
+        "url": "https://www.linkedin.com/in/pavelvarenka"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "Personal",
+        "username": "pavelvarenka",
+        "url": "https://linktr.ee/pavelvarenka"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Semantic Visions",
+      "position": "Platform Engineer",
+      "website": null,
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": null,
+      "highlights": [],
+      "location": "Prague, Czechia"
+    },
+    {
+      "company": "Na volné noze",
+      "position": "Freelance",
+      "website": null,
+      "startDate": "2021-06",
+      "endDate": "Present",
+      "summary": "DevOps/Platform Engineering projects, both short and long-term ones.",
+      "highlights": [],
+      "location": "Prague, Czechia"
+    },
+    {
+      "company": "Mews",
+      "position": "Senior Platform Engineer",
+      "website": null,
+      "startDate": "2023-11",
+      "endDate": "2024-08",
+      "summary": null,
+      "highlights": [
+        "Managing Azure resources (Container Apps, App Services, SQL server, ServiceBus,...)",
+        "Building an internal SDK for developers using Pulumi and C# to enable self-service infra provisioning",
+        "Handling SRE, incident management, and troubleshooting production issues",
+        "Taking care of CI/CD - GitHub Actions, Octopus Deploy, Azure DevOps",
+        "Monitoring using New Relic, Sentry and Grafana",
+        "Participating in system design, direction of our product, as well as scaling and bigger initiatives",
+        "Trying to automate everything we can :)"
+      ],
+      "location": "Prague, Czechia"
+    },
+    {
+      "company": "GWI",
+      "position": "DevOps Engineer",
+      "website": null,
+      "startDate": "2023-01",
+      "endDate": "2023-08",
+      "summary": "Wide range of responsibilities.",
+      "highlights": [
+        "Code reviews and support of developers",
+        "Google Cloud administration",
+        "Infrastructure-as-Code using Terraform",
+        "Maintaining dozens of Kubernetes clusters",
+        "Promoting DevOps culture and best practices",
+        "Open Policy Agent implementation",
+        "Enhancing monitoring stack (Loki, Thanos, Consul, Tempo, Prometheus, Grafana) and SRE practices",
+        "Automation using GitOps (Atlantis/ArgoCD)",
+        "Light programming in Go and Rego",
+        "Bash and Python",
+        "CI/CD (Drone and Github Actions) + Helm",
+        "DevSecOps and security topics (OPA, networking, Kubernetes and container vulnerabilities,...)",
+        "Open-source tooling and cost optimization",
+        "Experimenting with distributed systems and novel solutions"
+      ],
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "company": "CleverMaps",
+      "position": "DevSecOps Engineer",
+      "website": null,
+      "startDate": "2022-05",
+      "endDate": "2023-07",
+      "summary": "DevSecOps role primarily focused on Infrastructure-as-Code (Terraform/Terragrunt), execution of DRP/BCP at operations level, GitOps workflow (Flux, ArgoCD, Bitbucket Pipelines, monorepo implementation, utilising Helm/Kustomize), and maintenance of Kubernetes clusters on EKS. Also tasked with revamping security measures, migrating new backend services to Kubernetes, introducing GitOps with FluxCD and Kustomize, and creating a new dev environment.",
+      "highlights": [
+        "IaC: Terraform/Terragrunt",
+        "CI/CD: Bitbucket Pipelines/FluxCD",
+        "Public Cloud: AWS/Azure",
+        "Containers: Docker",
+        "Orchestration: Kubernetes on EKS",
+        "Repos: Bitbucket/Github/S3 for artifacts",
+        "Methodology: GitOps",
+        "Monitoring: Grafana/Prometheus"
+      ],
+      "location": "Prague, Czechia"
+    },
+    {
+      "company": "Smartlook",
+      "position": "Security Engineer",
+      "website": null,
+      "startDate": "2022-02",
+      "endDate": "2022-12",
+      "summary": "Wide range of responsibilities including compliance, AWS threat hunting, vulnerability scanning, security hardening, ad-hoc mitigation, penetration testing and implementing new tools to secure both the product and the infrastructure. Occasional code review or cooperation with other teams and developers to ensure reliable workflow and application security. Sole implementation of new security tools, advancing company's security posture, and cooperating with DevOps Engineers to reach a consensus regarding new infrastructure components.",
+      "highlights": [],
+      "location": "Remote"
+    },
+    {
+      "company": "Auxilium Cyber Security",
+      "position": "Penetration Tester",
+      "website": null,
+      "startDate": "2021-11",
+      "endDate": "2022-02",
+      "summary": "Multiple projects covering penetration testing of automotive/IoT/hardware/internal and external infrastructure, threat hunting, internal research regarding uncharted territory of automotive and SCADA vulnerabilities. Most of our projects were done for corporate customers from various backgrounds, most notably logistics, transportation and governmental services.",
+      "highlights": [],
+      "location": "Prague Metropolitan Area"
+    },
+    {
+      "company": "DataSpring s.r.o.",
+      "position": "Information Security Consultant",
+      "website": null,
+      "startDate": "2021-01",
+      "endDate": "2021-11",
+      "summary": "Vulnerability assessment, systems hardening (Debian/RHEL, Windows,...), maintaining current security infrastructure on-prem and creating new one. Actively participated in network architecture, software engineering from security perspective and SIEM analysis (along with overseeing and mentoring SOC members). Experience with on-premise hardware running virtualization on VMware, firewalls and IPS/IDS solutions, SIEM, maintenance of clusters of VMs, or logically segregating public and private network architecture.",
+      "highlights": [],
+      "location": "Praha - metropolitní oblast"
+    },
+    {
+      "company": "Letem Světem Applem",
+      "position": "Editor",
+      "website": null,
+      "startDate": "2019-02",
+      "endDate": "2021-01",
+      "summary": "Informing the readers about breaking news in technological field, reporting on advances in various subdomains, preparing research and articles about information security and current events.",
+      "highlights": [],
+      "location": null
+    },
+    {
+      "company": "Zing.cz",
+      "position": "Assistant Editor",
+      "website": null,
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "News, reviews, technology-related commentaries.",
+      "highlights": [],
+      "location": null
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Gymnázium Písek",
+      "area": "Všeobecný",
+      "studyType": "High School Diploma",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Základní škola Jana Husa v Písku",
+      "area": null,
+      "studyType": "Middle School",
+      "startDate": "2007",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Large Language Models (LLM)",
+      "level": null,
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": null,
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": null,
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": null,
+      "keywords": ["DevSecOps", "SRE", "Automation", "CI/CD", "GitOps"]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": null,
+      "keywords": ["AWS", "GCP", "Azure"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": null,
+      "keywords": ["Terraform", "Pulumi", "Terragrunt"]
+    },
+    {
+      "name": "Containers & Orchestration",
+      "level": null,
+      "keywords": ["Docker", "Kubernetes", "EKS"]
+    },
+    {
+      "name": "Observability",
+      "level": null,
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "Loki",
+        "Tempo",
+        "New Relic",
+        "Sentry"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": null,
+      "keywords": [
+        "SIEM",
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Hardening",
+        "Cloud Security",
+        "OPA"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": null,
+      "keywords": ["Golang", "Python", "Bash", "Rego"]
+    },
+    {
+      "name": "System Administration",
+      "level": null,
+      "keywords": ["UNIX", "Windows", "RHEL", "CentOS", "Debian"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Czech",
+      "fluency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Full Professional"
+    },
+    {
+      "language": "German",
+      "fluency": "Limited Working"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate (SAA-C02)"
+    },
+    {
+      "name": "Amazon Web Services Cloud Practitioner"
+    },
+    {
+      "name": "DevOps Foundations: Site Reliability Engineering"
+    },
+    {
+      "name": "GDPR Compliance: Essential Training"
+    },
+    {
+      "name": "IBM QRadar SIEM Foundational Analyst"
+    },
+    {
+      "name": "Cambridge English C1 Advanced - Score 199"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
