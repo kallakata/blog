@@ -165,7 +165,6 @@ Skills
     *   Golang
     *   Python
     *   C#/.NET
-    *   
     *   Bash
     *   Rego
 *   **System Administration**
