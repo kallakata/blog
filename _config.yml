@@ -10,7 +10,7 @@ baseurl                  : ""
 repository               : "kallakata/kallakata.github.io"
 
 author:
-  avatar           : "main.jpg"
+  avatar           : "mainpy.JPEG"
   name             : "Pavel Vařenka - @kallakata"
   pronouns         : "he/him"  
   bio              : "Platform Engineer, tinkerer, avid Linux enthusiast"
