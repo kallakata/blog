@@ -28,7 +28,7 @@ author:
   bio              : "Platform Engineer, tinkerer, avid Linux enthusiast"
   location         : "Cyberspace & occasionally Prague, Czech Republic"
   employer         : "Semantic Visions"
-  uri              : # URL
+  uri              : "https://linktr.ee/pavelvarenka"
   email            : "pavel.varenka@protonmail.com" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username - Update with your username on the site 
   codepen          : # Username
   dribbble         : # Username
   github           : "kallakata"
@@ -61,7 +61,7 @@ author:
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/pavelvarenka/"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@pavel.varenka"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
