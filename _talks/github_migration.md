@@ -8,4 +8,4 @@ date: 2023-08-08
 venue: 'CloudNative Prague'
 slidesurl: '/files/github_migration.pdf'
 ---
-We have undergone quite a heavy migration from Drone CI to GitHub Actions for all of our microservices and projects. This effort span 6+ months and helped us learn a lesson.
+We have undergone quite a heavy migration from Drone CI to GitHub Actions for all of our microservices and projects. This effort span 6+ months and helped us learn a lesson or two that I shared in this talk.
