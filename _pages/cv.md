@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Pavel Vařenka
-Platform Engineer @SemanticVisions  
+**Platform Engineer** *@SemanticVisions*
 
 Prague, Czechia
 
